@@ -99,7 +99,7 @@ class Passaro(Ator):
         """
         Método que executa lógica de colisão com o chão. Toda vez que y for menor ou igual a 0,
         o status dos Passaro deve ser alterado para destruido, bem como o seu caracter
-
+mm
         """
         pass
 
